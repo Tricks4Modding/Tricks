@@ -22,14 +22,14 @@ killall -HUP tor
 
 banner() {
 
-printf "\e[1;93m  ____  ____       ____ \e[0m \e[1;77m  _             \e[0m\n"
-printf "\e[1;93m |  _ \|  _ \  ___/ ___| \e[0m\e[1;77m | |_ ___  _ __  \e[0m\n"
-printf "\e[1;93m | | | | | | |/ _ \___ \ \e[0m\e[1;77m | __/ _ \| '__| \e[0m\n"
-printf "\e[1;93m | |_| | |_| | (_) |__) |\e[0m\e[1;77m | || (_) | |    \e[0m\n"
-printf "\e[1;93m |____/|____/ \___/____/\e[0m\e[1;77m   \__\___/|_|    v1.0\e[0m\n"
-printf "                                          \n"
-printf "\e[1;92m  .::.\e[0m\e[1;77m DDoS Tool by @thelinuxchoice  \e[0m\e[1;92m.::.\e[0m\n\n"
-
+printf "\e[1;93m  __       ________   __    __ \e[0m \e[1;77m   __    __   __       \e[0m\n"            
+printf "\e[1;93m |  |     |       /  |  |  |  | \e[0m \e[1;77m |  |  |  | |  |      \e[0m\n"     
+printf "\e[1;93m |  |     `---/  /   |  |  |  | \e[0m \e[1;77m |  |__|  | |  |      \e[0m\n"       
+printf "\e[1;93m |  |        /  /    |  |  |  | \e[0m \e[1;77m |   __   | |  |      \e[0m\n"          
+printf "\e[1;93m |  `----.  /  /----.|  `--'  | \e[0m \e[1;77m |  |  |  | |  `----. \e[0m\n"     
+printf "\e[1;93m |_______| /________| \______/ \e[0m \e[1;77m  |__|  |__| |_______| v1.0\e[0m\n"
+printf "
+printf "\e[1;92m  .::.\e[0m\e[1;77m Trash DDoS Tool by Instagram:@lzuhl  \e[0m\e[1;92m.::.\e[0m\n\n"
 
 }
 
